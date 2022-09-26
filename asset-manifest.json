@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pockedex/static/js/main.cb3204a8.js",
+    "index.html": "/pockedex/index.html",
+    "main.cb3204a8.js.map": "/pockedex/static/js/main.cb3204a8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cb3204a8.js"
+  ]
+}
