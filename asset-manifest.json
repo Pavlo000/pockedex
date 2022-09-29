@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/pockedex/static/js/main.cb3204a8.js",
+    "main.css": "/pockedex/static/css/main.74127ed0.css",
+    "main.js": "/pockedex/static/js/main.84fc9af1.js",
     "index.html": "/pockedex/index.html",
-    "main.cb3204a8.js.map": "/pockedex/static/js/main.cb3204a8.js.map"
+    "main.74127ed0.css.map": "/pockedex/static/css/main.74127ed0.css.map",
+    "main.84fc9af1.js.map": "/pockedex/static/js/main.84fc9af1.js.map"
   },
   "entrypoints": [
-    "static/js/main.cb3204a8.js"
+    "static/css/main.74127ed0.css",
+    "static/js/main.84fc9af1.js"
   ]
 }
